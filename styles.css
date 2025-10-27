@@ -36,12 +36,11 @@ img {
 h1 {
     font-size: 3em;
 }
-h2 {text-align: center;}
+
 /* Medium heading size with gray color for section headers */
 h3 {
     font-size: 1.75em;
     color: gray;
-    line-break: normal;
 }
 
 /* Small heading style for individual tip titles - uppercase and centered */
@@ -171,4 +170,4 @@ figure {
     figure {
         max-width: 700px;
     }
-{class="outro" text-align;}
+}
