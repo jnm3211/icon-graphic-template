@@ -34,7 +34,7 @@ img {
 
 /* Large heading size for main title */
 h1 {
-    font-size: 3em;
+    font-size: 3em; text-align: center;
 }
 
 /* Medium heading size with gray color for section headers */
