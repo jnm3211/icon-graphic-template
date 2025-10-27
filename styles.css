@@ -41,6 +41,7 @@ h2 {text-align: center;}
 h3 {
     font-size: 1.75em;
     color: gray;
+    line-break: normal;
 }
 
 /* Small heading style for individual tip titles - uppercase and centered */
